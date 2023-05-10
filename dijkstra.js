@@ -72,3 +72,5 @@ let objetivo = 'Arad'; //ponto de chegada
 
 let caminho = buscarCaminho(origem, objetivo, possibilidades);
 console.log(`\nO caminho mais rápido entre ${origem} e ${objetivo} é: \n\n> ${caminho[0].join(' --> ')}.`);
+//conferindo o custo final pelo caminho
+console.log(`\nO custo pelo trajeto é de ${caminho[1]}\n`);
