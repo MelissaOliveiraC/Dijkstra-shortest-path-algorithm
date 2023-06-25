@@ -6,5 +6,5 @@ O algoritmo escolherá o caminho que passa pelo menor número de cidades entre a
 
 ## Mapa de cidades: 
 <div align="center">
-<img src="https://tinypic.host/images/2023/05/03/mapaCidades.png" width="650px" />
+<a href="https://imgur.com/X0TVHSG"><img src="https://i.imgur.com/X0TVHSG.jpg" title="source: imgur.com" /></a>
 </div>
